@@ -1,0 +1,7 @@
+psutil
+unstructured
+langchain_community
+langgraph
+unstructured[all-docs]
+chromadb
+langchain-text-splitters
